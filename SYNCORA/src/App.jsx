@@ -1,7 +1,7 @@
 import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/clerk-react";
 import { Route, Routes } from "react-router-dom"
 import Home from "./Pages/Home/Home"
-import Index from "./Room/index"
+import Index from "./Room/Room_main"
 export default function App() {
   return (
     <header>
